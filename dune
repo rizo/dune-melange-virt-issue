@@ -1,3 +1,9 @@
+(executable
+ (name ml)
+ (modules ml)
+ (libraries vlib impl_ml))
+
+
 (melange.emit
  (target output)
  (alias melange)

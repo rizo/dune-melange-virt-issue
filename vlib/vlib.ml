@@ -1,1 +1,1 @@
-let result = "Result is: " ^ string_of_int Virt.t
+let result = "Result is: " ^ Virt.t

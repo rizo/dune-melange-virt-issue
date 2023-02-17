@@ -1,1 +1,1 @@
-val t : int
+val t : string

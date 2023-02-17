@@ -1,5 +1,8 @@
 (library
  (name vlib)
  (wrapped false)
+
+ ; commenting this out allows compiling the non-melange version
  (modes melange)
+
  (virtual_modules virt))
