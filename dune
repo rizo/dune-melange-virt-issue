@@ -2,5 +2,5 @@
  (target output)
  (alias melange)
  (entries mel)
- (libraries impl_melange)
+ (libraries vlib impl_melange)
  (module_system commonjs))
