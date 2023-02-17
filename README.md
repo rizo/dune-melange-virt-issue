@@ -4,7 +4,7 @@ See: https://github.com/ocaml/dune/issues/7104
 
 ## Usage
 
-Start a shell:
+Start a shell (requires [Nix](https://nixos.org/download.html)):
 ```
 $ make shell
 ```
